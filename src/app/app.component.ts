@@ -9,13 +9,13 @@ export class AppComponent {
   posts = [
     {
       title : "test1",
-      content : "lorem",
+      content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       loveIts : 2,
       created_at : new Date()
     },
     {
       title: "test2",
-      content : "lorem",
+      content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       loveIts : 2,
       created_at : new Date()
     }
